@@ -1,7 +1,9 @@
 DOCUMENTATION :
 
 Aim: 
+
 Time series forcasting for energy consumpttion:optimizing resource allocation in smart grid systems.
+
 Objectives :
 
 development of an accurate time series forcasting model for energy consumption.
@@ -9,7 +11,7 @@ optimization of energy distribution and resource allocation in smart grid system
 reductinhanced sustainability through efficient energy management practices
 
 
-         using python libraries like numpy,panda,matplotlib,seaborn,sklearn etc we started analysing the data set.with the help of [pandas we read the data set in jupyter notebook.
+ using python libraries like numpy,panda,matplotlib,seaborn,sklearn etc we started analysing the data set.with the help of [pandas we read the data set in jupyter notebook.
 data preprocessing is done at first.there was no missing valure or duplicate values in that data set.we analyse relation ship with various features throgh numerical,tabular and visual methods.
 feature engineerimng is done by transforming existing features and encoding categorical variables.
 feature scaling/normalization is done using standard scaler and min max scaler.
