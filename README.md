@@ -1,6 +1,6 @@
 DOCUMENTATION :
 
-This capstone projject is based on energy consumption data set.
+This Capstone Project is based on Energy Consumption Data Set.
 
            Submitted By : DEEPA.P 
                           Entry Elevate DSML B4 Batch
