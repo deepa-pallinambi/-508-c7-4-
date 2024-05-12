@@ -1,5 +1,11 @@
 DOCUMENTATION :
 
+This capstone projject is based on energy consumption data set.
+           Submitted By : DEEPA.P 
+                          Entry Elevate DSML B4 Batch
+           Submitted On : 12/05/2024
+ 
+
 Aim: 
 
 Time series forcasting for energy consumpttion:optimizing resource allocation in smart grid systems.
