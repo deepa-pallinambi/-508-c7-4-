@@ -8,7 +8,8 @@ Objectives :
 
 development of an accurate time series forcasting model for energy consumption.
 optimization of energy distribution and resource allocation in smart grid systems.
-reductinhanced sustainability through efficient energy management practices
+reduction in operational costs and improve grid reliability.
+enhanced sustainability through efficient energy management practices.
 
 
  using python libraries like numpy,panda,matplotlib,seaborn,sklearn etc we started analysing the data set.with the help of [pandas we read the data set in jupyter notebook.
